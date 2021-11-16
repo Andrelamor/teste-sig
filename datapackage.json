@@ -26,9 +26,10 @@
     "indicadores hospitalares",
     "gestão hospitalar"
   ],
-  "name": "sig-teste",
+  "name": "teste-sig",
   "title": "Teste SIG",
   "description": "dataset de teste",
+  "owner_org": "secretaria-de-estado-de-saude-ses",
   "licenses": [
     {
       "name": "CC-BY-4.0",
