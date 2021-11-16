@@ -11,7 +11,8 @@
             "type": "number",
             "format": "default",
             "title": "Pacientes-Dia",
-            "description": "contagem numérica"
+            "description": "contagem numérica",
+            "groupChar": "."
           },
           {
             "name": "saidas",
